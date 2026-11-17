@@ -31,10 +31,10 @@ Command:
 
 ## 3. Evidence Screenshots
 
-Screenshots of the original terminal outputs will be added here.
+The original terminal test outputs are shown below.
 
-- `screenshots/causal-discovery-12-of-12.jpg`
-- `screenshots/pytest-140-passed.jpg`
+![Causal Discovery — 12 of 12](screenshots/causal-discovery-12-of-12.jpg)
+![Pytest — 140 passed](screenshots/pytest-140-passed.jpg)
 
 ## 4. Scope and Transparency
 
